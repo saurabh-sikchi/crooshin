@@ -1,0 +1,1398 @@
+@import url('https://fonts.googleapis.com/css?family=Text+Me+One:400|Montserrat:300');
+
+
+.bp2-desktop {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-desktop .bp2-rectangle {
+  background-color    : rgba(241, 221, 239, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  box-sizing          : border-box;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 10px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-crooshonphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 166px;
+  height              : 346px;
+  width               : 541px;
+  position            : absolute;
+  margin              : 0;
+  left                : 470px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-croosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 110px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 66px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 90.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 110.0px;
+}
+.bp2-desktop .bp2-disruptingparasocia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 453px;
+  height              : 117px;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 32.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 39.0px;
+}
+.bp2-desktop .bp2-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 727px;
+  height              : 100px;
+  width               : 688px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group4 .bp2-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 429px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group4 .bp2-group2 .bp2-googleplaybadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group4 .bp2-downloadontheappstorebadgeusukrgbwht092917 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 78px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group4 .bp2-downloadontheappstorebadgeusukrgbwht092917 .bp2-appstore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 78px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 100%;
+  width               : 312px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 927px;
+  align-items         : center;
+  height              : 75px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp2-desktop .bp2-group3-layout-container > * {
+  pointer-events      : auto;
+}
+.bp2-desktop .bp2-group3 .bp2-areyoualuminary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 312px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 25.56px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 31.0px;
+}
+.bp2-desktop .bp2-group3 .bp2-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : 3px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-logo2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 80px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 927px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-desktop .bp2-logo2 .bp2-logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 80px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp3-tablet {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-tablet .bp3-rectangle {
+  background-color    : rgba(241, 221, 239, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  box-sizing          : border-box;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 10px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 100%;
+  width               : 388px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 925px;
+  align-items         : center;
+  height              : 33px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet .bp3-group3-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-tablet .bp3-group3 .bp3-areyoualuminary {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 25.56px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 31.0px;
+}
+.bp3-tablet .bp3-group3 .bp3-areyoualuminary-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet .bp3-group3 .bp3-areyoualuminary-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-tablet .bp3-group3 .bp3-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 3px;
+  width               : 122px;
+  position            : absolute;
+  margin              : 0;
+  left                : 254px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 100%;
+  width               : 626px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 753px;
+  align-items         : center;
+  height              : 100px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp3-tablet .bp3-group4-layout-container > * {
+  pointer-events      : auto;
+}
+.bp3-tablet .bp3-group4 .bp3-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group4 .bp3-group2 .bp3-googleplaybadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 257px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group4 .bp3-downloadontheappstorebadgeusukrgbwht092917 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 78px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-group4 .bp3-downloadontheappstorebadgeusukrgbwht092917 .bp3-appstore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 78px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-disruptingparasocia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 561px;
+  height              : 120px;
+  width               : 471px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 40.0px;
+}
+.bp3-tablet .bp3-croosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 47px;
+  height              : 77px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 239px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 63.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 77.0px;
+}
+.bp3-tablet .bp3-crooshonphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 163px;
+  height              : 389px;
+  width               : 608px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-logo2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 74px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 674px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp3-tablet .bp3-logo2 .bp3-logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 74px;
+  width               : 76px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp4-mobile {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-mobile .bp4-rectangle {
+  background-color    : rgba(241, 221, 239, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  box-sizing          : border-box;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 10px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 100%;
+  width               : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group3-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 901px;
+  align-items         : center;
+  height              : 66px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile .bp4-group3-layout-container > * {
+  pointer-events      : auto;
+}
+.bp4-mobile .bp4-group3 .bp4-areyoualuminary {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : auto;
+  width               : auto;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 21.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 32.0px;
+}
+.bp4-mobile .bp4-group3 .bp4-areyoualuminary-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 0px;
+  align-items         : center;
+  height              : auto;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile .bp4-group3 .bp4-areyoualuminary-layout-container > * {
+  pointer-events      : auto;
+}
+.bp4-mobile .bp4-group3 .bp4-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : 3px;
+  width               : 89px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  margin-left         : 10px;
+  height              : 100%;
+  width               : 305px;
+  margin-right        : -10px;
+  position            : relative;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 633px;
+  align-items         : center;
+  height              : 195px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp4-mobile .bp4-group4-layout-container > * {
+  pointer-events      : auto;
+}
+.bp4-mobile .bp4-group4 .bp4-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 95px;
+  height              : 100px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 46px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group4 .bp4-group2 .bp4-googleplaybadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 66px;
+  width               : 225px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group4 .bp4-downloadontheappstorebadgeusukrgbwht092917 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 67px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-group4 .bp4-downloadontheappstorebadgeusukrgbwht092917 .bp4-appstore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 67px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-disruptingparasocia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 120px;
+  width               : 262px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 40.0px;
+}
+.bp4-mobile .bp4-crooshonphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 275px;
+  width               : 289px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-croosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 52px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 42.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 52.0px;
+}
+.bp4-mobile .bp4-logo2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 53px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp4-mobile .bp4-logo2 .bp4-logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.bp1-desktophd {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-desktophd .bp1-rectangle {
+  background-color    : rgba(241, 221, 239, 1.0);
+  top                 : 0px;
+  height              : 1024px;
+  box-sizing          : border-box;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 10px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-crooshonphone {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 648px;
+  width               : 936px;
+  position            : absolute;
+  margin              : 0;
+  left                : 494px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-logo2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 98px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-logo2 .bp1-logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-croosh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 139px;
+  height              : 136px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 104px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 112.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 136.0px;
+}
+.bp1-desktophd .bp1-disruptingparasocia {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 401px;
+  height              : 132px;
+  width               : 478px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 44.0px;
+}
+.bp1-desktophd .bp1-group4 {
+  background-color    : rgba(255,255,255,0.0);
+  position            : relative;
+  height              : 100%;
+  width               : 844px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-group4-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 657px;
+  align-items         : center;
+  height              : 120px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.bp1-desktophd .bp1-group4-layout-container > * {
+  pointer-events      : auto;
+}
+.bp1-desktophd .bp1-group4 .bp1-group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 120px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 538px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-group4 .bp1-group2 .bp1-googleplaybadge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 119px;
+  width               : 306px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-group4 .bp1-downloadontheappstorebadgeusukrgbwht092917 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 78px;
+  width               : 234px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 960px;
+  height              : 46px;
+  width               : 546px;
+  position            : absolute;
+  margin              : 0;
+  left                : 447px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-desktophd .bp1-group3 .bp1-areyoualuminary {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Text Me One", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 44.0px;
+}
+.bp1-desktophd .bp1-group3 .bp1-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 3px;
+  width               : 172px;
+  position            : absolute;
+  margin              : 0;
+  left                : 358px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+@media screen and (max-width: 767px) {
+  .bp4-mobile {
+    display             : block;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : block;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : block;
+  }
+  .bp1-desktophd {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) {
+  .bp4-mobile {
+    display             : none;
+  }
+  .bp3-tablet {
+    display             : none;
+  }
+  .bp2-desktop {
+    display             : none;
+  }
+  .bp1-desktophd {
+    display             : block;
+  }
+}
