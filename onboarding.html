@@ -829,7 +829,7 @@
       //   }
       // });
 
-      var amount_regex = /^[0-9]{3,5}$/;
+      var amount_regex = /^[0-9]{3,9}$/;
       $("#next-button-7").on("click", function () {
         if (!amount_regex.test($("#celeb_amount").val())) {
           swiper.slideTo(7);
